@@ -1,0 +1,13 @@
+763	Number of cells
+
+1.	bias
+
+3.81	sample size (Length or Radius in cm)
+
+-1	time step (s or -1 for adaptative time step)
+
+1.5e6	printing time step (s)
+
+0.3	evolution criterion
+
+0	0 for Linear, 1 for Polar 0 0.045	0.179	0.312	0.442	0.573	0.704	0.835	0.971	1.172	1.431	1.691	1.954	2.212	2.466	2.72	2.979	3.248	3.535	3.758 3.81
