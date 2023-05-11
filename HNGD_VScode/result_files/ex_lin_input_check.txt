@@ -1,0 +1,27 @@
+Space discretization: 60 cells
+Bias: 1
+Sample lenght: 2.5
+Adaptative time step
+Printing time step: 150000
+Evolution criterion: 0.03
+Kd0:	1110	s-1
+Ediss:	0.46	eV/at
+Kn0:	2.75e-05	s-1
+Eth0:	0.5655	eV/mol
+Eth1:	0.0004	eV/mol/K
+Eth2:	2e-07	eV/mol/K2
+Eth3:	3e-10	eV/mol/K3
+Kmob0:	535000	s-1
+Kth0:	1.6e-05	s-1
+Eg:	0.9	eV/at
+TSSp0:	30853	wt.ppm
+Qtssp:	25249	J/(mol.K)
+TSSd0:	101999	wt.ppm
+Qtssd:	35459	J/(mol.K)
+D0:	0.0108	J/(mol.K)
+Q*:	25500	J/mol
+
+
+time (s), temperature (K), gradient (K/cm)
+
+end time (s) = 1e+06
