@@ -4,6 +4,9 @@
 
 **The folder HNGD_VScode contains a README.pdf file detailing the structure of the code and how to use it.**
 
+**The file Merlino_PSU_MEng_2019.pdf elaborates Kammenzind's linear cases and asymmetrical cases.**
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 The Hydrogen Nucleation-Growth-Dissolution model was developed at Penn State to predict the hydrogen 
 behavior (redistribution, hydride precipitation) in the Zircaloy nuclear fuel cladding. 
 
