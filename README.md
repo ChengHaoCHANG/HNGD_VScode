@@ -1,6 +1,7 @@
 # Modified HNGD model
 
-**The file 操作說明(win10) shows the procedure to download VScode and illustrates how to use this standalone mHNGD model**. 
+**The file 操作說明(win10) shows the procedure to download VScode and illustrates how to use this standalone mHNGD model**.
+
 **The folder HNGD_VScode contains a README.pdf file detailing the structure of the code and how to use it.**
 
 The Hydrogen Nucleation-Growth-Dissolution model was developed at Penn State to predict the hydrogen 
