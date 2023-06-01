@@ -1,5 +1,8 @@
 # Modified HNGD model
 
+**The file 操作說明(win10) shows the procedure to download VScode and illustrates how to use this standalone mHNGD model**. 
+**The folder HNGD_VScode contains a README.pdf file detailing the structure of the code and how to use it.**
+
 The Hydrogen Nucleation-Growth-Dissolution model was developed at Penn State to predict the hydrogen 
 behavior (redistribution, hydride precipitation) in the Zircaloy nuclear fuel cladding. 
 
@@ -8,8 +11,6 @@ This program was coded by Florian Passelaigue, initially based on E.  Lacroix,  
 The implementation of the first version of this code is presented in F. Passelaigue “Hydride Nucleation-Growth-Dissolution Model: Implementation in BISON”, Master Thesis, The Pennsylvania State University (2020) (https://etda.libraries.psu.edu/catalog/17572fpp8). The structure of the code has been modified since. The current structure is detailed in HNGD_Xcode/README.pdf
 
 The current version (labeled mHNGD model) is based on F. Passelaigue, P.-C. A. Simon, A. T. Motta “Predicting the hydride rim by improving the solubility limits in the Hydride Nucleation-Growth-Dissolution (HNGD) model.” Journal of Nuclear Materials (submitted) 
-
-The folder HNGD_Xcode contains a README.pdf file detailing the structure of the code and how to use it.
 
 The work in this repository can be cited using the BibTex command below:
 
